@@ -40,3 +40,6 @@ Empid : EMP10806121 (in case of password recovery)
 For admin login click on the admin login then provide username and password
 Email id : admin
 Passowrd : Test@12345
+
+
+Any Query Contact: Raghuraj Singh Gurajr, +917024135240, raghuraj.morena@gmail.com 
